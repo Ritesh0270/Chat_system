@@ -130,3 +130,8 @@ python chunk.py
 ##  Summary
 
 This project demonstrates how to build a domain-specific AI chatbot using RAG architecture, combining retrieval and generation for accurate and reliable responses.
+
+## Snapshot of UI
+
+![Demo1](img/Screenshot_1.png)
+![Demo2](img/Screenshot_2.png)
