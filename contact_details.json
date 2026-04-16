@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Exactink Contact",
+    "page": "contact",
+    "section": "address_dallas",
+    "heading": "Office Address",
+    "content": "Exactink address is 3824 Cedar Springs Rd #656, Dallas, Texas, USA.",
+    "source": "manual",
+    "category": "contact"
+  },
+
+  {
+    "title": "Exactink Contact",
+    "page": "contact",
+    "section": "address_indore",
+    "heading": "Office Address",
+    "content": "Exactink address is Office no. 204, 205, 14/3, Trade House, South Tukoganj Indore, Madhya Pradesh 452001, INDIA.",
+    "source": "manual",
+    "category": "contact"
+  },
+
+  {
+    "title": "Exactink Contact",
+    "page": "contact",
+    "section": "location_dallas",
+    "heading": "Office Address",
+    "content": "Exactink located in Dallas, Texas, USA.",
+    "source": "manual",
+    "category": "contact"
+  },
+  
+  {
+    "title": "Exactink Contact",
+    "page": "contact",
+    "section": "location_indore",
+    "heading": "India Location",
+    "content": "Exactink also lists Indore, Madhya Pradesh, India as a location.",
+    "source": "manual",
+    "category": "contact"
+  },
+  {
+    "title": "Exactink Contact",
+    "page": "contact",
+    "section": "email",
+    "heading": "Contact Email",
+    "content": "Exactink contact email is inquiry@exactink.com.",
+    "source": "manual",
+    "category": "contact"
+  }
+] 
